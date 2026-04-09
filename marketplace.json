@@ -1,0 +1,13 @@
+{
+    "name": "mock-marketplace",
+    "owner": {
+        "name": "Andrei Li"
+    },
+    "plugins": [
+        {
+            "name": "mock-plugin",
+            "source": "./plugins/mock-plugin",
+            "description": "This is a plugin"
+        }
+    ]
+}
